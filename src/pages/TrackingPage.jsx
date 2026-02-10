@@ -1,4 +1,3 @@
-import "./header.css";
 import "./tracking.css";
 
 export function TrackingPage() {
